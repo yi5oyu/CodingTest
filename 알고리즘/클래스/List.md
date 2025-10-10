@@ -2,7 +2,8 @@
 
 # **List**
   
-순서가 있는 데이터의 집합을 관리하는 자료구조, 인덱스를 통한 접근, 중복 허용, 동적 크기 조절
+순서가 있는 데이터의 집합을 관리하는 자료구조  
+인덱스를 통한 접근, 중복 허용, 동적 크기 조절
 
 [List 인터페이스](#list-인터페이스) • [ArrayList](#arraylist) • [LinkedList](#linkedlist) • [Vector](#vector) • [CopyOnWriteArrayList](#copyonwritearraylist)
 
